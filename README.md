@@ -1,7 +1,8 @@
 # skills
 
-Five Claude Code Skills I actually run, published as worked examples. Small on purpose: a shelf to
-read and take from, not a framework to install.
+Five of the Claude Code Skills I maintain, published as worked examples. A selection from a larger
+private shelf, not the whole of it. Small on purpose: something to read and take from, not a
+framework to install.
 
 A Skill is a folder holding a `SKILL.md` and whatever reference files it needs. Each folder here is
 self-contained and nothing depends on anything else here. Copy one into a project's

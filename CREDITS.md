@@ -6,7 +6,7 @@ licence, with his copyright notice reproduced in full below.
 
 | Skill | Relationship to the original |
 |---|---|
-| `writing-great-skills` | Essentially as published, including `GLOSSARY.md`. One word changed. |
+| `writing-great-skills` | Essentially as published, including `GLOSSARY.md`. One sentence changed, identically in both files. |
 | `diagnosing-bugs` | Substantially as published. Changed to user-invoked, given an explicit when-to-use line, and the Phase 6 architecture handoff rewritten to name no external file. `scripts/hitl-loop.template.sh` is unchanged. |
 | `interview-design-decisions` | Renamed from the original `grilling`, with the register softened and the closing line dropped. |
 
